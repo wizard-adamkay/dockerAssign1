@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adam k\\Documents\\t4 courses\\webdev\\assign1\\assign1.csproj": {}
+    "C:\\Users\\Max\\Videos\\dockerAssign1\\assign1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adam k\\Documents\\t4 courses\\webdev\\assign1\\assign1.csproj": {
+    "C:\\Users\\Max\\Videos\\dockerAssign1\\assign1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adam k\\Documents\\t4 courses\\webdev\\assign1\\assign1.csproj",
+        "projectUniqueName": "C:\\Users\\Max\\Videos\\dockerAssign1\\assign1.csproj",
         "projectName": "assign1",
-        "projectPath": "C:\\Users\\Adam k\\Documents\\t4 courses\\webdev\\assign1\\assign1.csproj",
-        "packagesPath": "C:\\Users\\Adam k\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adam k\\Documents\\t4 courses\\webdev\\assign1\\obj\\",
+        "projectPath": "C:\\Users\\Max\\Videos\\dockerAssign1\\assign1.csproj",
+        "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Max\\Videos\\dockerAssign1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Adam k\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,23 +42,23 @@
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[5.0.2, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[5.0.2, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[5.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[5.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
